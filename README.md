@@ -1,2 +1,2 @@
 # helloworld
-Office.JS example representing Hello World
+Excel Office.JS example representing Hello World
